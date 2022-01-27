@@ -1,3 +1,4 @@
+Mettre ca dans un fichier texte et le rename en .bat
 @echo off
 title Hacking
 :test
